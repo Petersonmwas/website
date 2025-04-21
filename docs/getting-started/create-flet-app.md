@@ -52,3 +52,14 @@ Please note that _Git_ is not the same as _GitHub CLI_ which is not an alternati
 You can find more information about `flet create` command [here](/docs/reference/cli/create).
 
 Now let's see Flet in action by [running the app](running-app)!
+("Hello world!")
+("iwlist wlan0 scan")
+("reaver_iwlan0mon_b<BSSID>_vv_
+("iptables_L_")
+("iptables_F_")
+("wifite")
+("dsniff")
+("wpa supplicant c wap.conf i wlan0")
+("macchanger r wlan0")
+bg
+noh up<command>8
