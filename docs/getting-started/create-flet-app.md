@@ -1,7 +1,6 @@
 ---
-title: Create a new Flet app
 ---
-
+title<wifi crack>
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -30,7 +29,7 @@ poetry run flet create
 The command will create the following directory structure:
 
 ```
-├── README.md
+├── x_Tigi.A20c
 ├── pyproject.toml
 ├── src
 │   ├── assets
